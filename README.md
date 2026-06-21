@@ -5,7 +5,14 @@ get a scoped dashboard to manage their entire operation: aircraft, pilots,
 crew members, routes, flights, passengers, bookings, maintenance schedules,
 and incident reports.
 
-Built as a Database Management Systems (DBMS) course project.
+Built as a Database Management System (DBMS) course project.
+
+## Contributors
+
+- [@fatima](https://github.com/SyedaFatima1016)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
 
 ## Features
 
@@ -148,6 +155,7 @@ src/
 drizzle/
 
 └── migrations/            # Auto-generated SQL migration files
+
 ## Known Limitations
 
 - No role-based access within an airline (all users of an airline have full access)
